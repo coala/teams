@@ -14,6 +14,7 @@ cib
 ---
 
 __Team Leader:__ Adrian Zatreanu
+(adrianzatreanu@coala.io)
 
 The cib team develops and maintains the cib tool for coala.
 
@@ -44,6 +45,7 @@ Docs
 ----
 
 __Team Leader:__ Adrian Zatreanu
+(adrianzatreanu@coala.io)
 
 Improve the existing documentation, wiki, tutorials and guides.
 Introduce new ones as needed.
@@ -53,6 +55,7 @@ Research
 --------
 
 __Team Leader:__ Udayan Tandon
+(udayan@coala.io)
 
 Work on new architecture for coala parts. Help with thesis writing and
 implementing algorithms for the science community.
