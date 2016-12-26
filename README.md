@@ -22,6 +22,7 @@ Community
 ---------
 
 __Team Leader:__ Maximilian Scholz
+(max@coala.io)
 
 The community team organizes community bonding events like meetups and
 gaming evenings to support and promote a healthy, happy community.
@@ -56,3 +57,22 @@ __Team Leader:__ Udayan Tandon
 Work on new architecture for coala parts. Help with thesis writing and
 implementing algorithms for the science community.
 
+
+Applications
+============
+
+Team Leader Appplication
+------------------------
+
+To apply for a team lead position, you have to create an issue in this repository using the given template.
+
+
+Team Member Application
+-----------------------
+
+To apply to any team, you just have to message the team leader in some way.
+For example via gitter, an issue in this repository or with an email.
+
+
+__For more information about coala teams,
+see [cEP-0003](https://github.com/coala/cEPs/blob/master/cEP-0003.md).__
