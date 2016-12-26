@@ -35,6 +35,7 @@ Core
 ----
 
 __Team Leader:__ Adhityaa Chandrasekar
+(adtac@coala.io )
 
 Developing and maintaining the coala core repository.
 In addition everything that does not fit into another team's domain,
@@ -67,15 +68,20 @@ Applications
 Team Leader Appplication
 ------------------------
 
-To apply for a team lead position, you have to create an issue in this repository using the given template.
+Ever coala maintainer can apply for a team lead position of any team.
+To apply for a team lead position, you have to create an issue in this
+repository using the given template.
 
 
 Team Member Application
 -----------------------
 
-To apply to any team, you just have to message the team leader in some way.
-For example via gitter, an issue in this repository or with an email.
+Every coala maintainer or developer can apply for membership in any team.
+To apply you have to create an issue in this repository using the given
+template.
 
+__Remeber! Although anyone is invited to help any team, becoming a team member
+adds a declaration of dedication to the domain of the respective team.__
 
 __For more information about coala teams,
 see [cEP-0003](https://github.com/coala/cEPs/blob/master/cEP-0003.md).__
