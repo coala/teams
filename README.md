@@ -17,6 +17,9 @@ __Team Leader:__ Adrian Zatreanu
 (adrianzatreanu@coala.io)
 
 The cib team develops and maintains the cib tool for coala.
+cib (cib Installs Bears) is a package manager which helps installing/
+uninstalling bears, checking for dependencies, etc.
+Its repository lies at https://gitlab.com/coala/cib.
 
 
 Community
@@ -50,8 +53,8 @@ Docs
 __Team Leader:__ Adrian Zatreanu
 (adrianzatreanu@coala.io)
 
-Improve the existing documentation, wiki, tutorials and guides.
-Introduce new ones as needed.
+The documentation team aims having updated docs.
+It also takes care of wiki pages and upcoming events.
 
 
 Research
