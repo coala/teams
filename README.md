@@ -85,7 +85,7 @@ Every coala maintainer or developer can apply for membership in any team.
 To apply you have to create an issue in this repository using the given
 template.
 
-__Remeber! Although anyone is invited to help any team, becoming a team member
+__Remember! Although anyone is invited to help any team, becoming a team member
 adds a declaration of dedication to the domain of the respective team.__
 
 __For more information about coala teams,
