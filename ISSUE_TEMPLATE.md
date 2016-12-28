@@ -1,4 +1,6 @@
-This template is for team leader applications. Remove this paragraph. Set `<Team Name> Leader Application: <Your Full Name>` as issue title. If your proposal isn't ready yet, prefix the issue title with `WIP:`
+This template is for team leader/member applications. Remove this paragraph. Set `<Team Name> Member Application: <Your Full Name>` (use `Leader` instead of member obviously if you want to apply for leadership) as issue title. If your proposal isn't ready yet, prefix the issue title with `WIP:`.
+
+As a team leader you're expected to make a rather verbose application compared to members.
 
 # Bio
 
@@ -10,4 +12,4 @@ What contributions, coding or not, have you done to coala?
 
 # Road to the Future
 
-How do you plan to take forward coala as a team leader of your team? What changes will you make happen
+How do you plan to take forward coala as a team leader/member of your team? What changes will you make happen.
