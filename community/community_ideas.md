@@ -4,7 +4,7 @@ Community Team
 Team
 ----
 
-__Maximilian Scholz (Leader):__
+__[Maximilian Scholz](https://github.com/sims1253) (Leader):__
 
 "Hi, I'm Max and sometimes called the Secretary of Offtopic (mainly by myself).
 I joined coala in early 2015 but real contributions started 2016. I mainly
@@ -13,7 +13,22 @@ tasks. My biggest impact on coala so far probably was the community work during
 the second GSoC coala participated in and my conference visits. From that time
 the title Secretary of Offtopic stems."
 
+Max is responsible for:
+
+- Organizing all teams organization
+
+__[Lasse Schuirmann](https://github.com/sils) (Member):__
+
+"I'm Lasse. I'm the BLD of coala. I'm special. Also I'm western, white, male
+and in my 20ies so I fit the profile of an open source developer pretty well."
+
+Lasse is responsible for:
+
+- Applying as own organization for GSoC
+
+
 __More To Come...__
+
 
 Newcomer Experience
 -------------------
@@ -31,7 +46,7 @@ Scholarships
 ------------
 
 - Find more GSoC like events and participate
-- Apply as own org for GSoC
+- Apply as own org for GSoC (Lasse Schuirmann)
 - How to manage students and mentors without handholding
 - Apply deadlines
 - How to keep students after GSoC is done
