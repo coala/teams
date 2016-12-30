@@ -92,3 +92,9 @@ Web Presence
 - Official coala Blog
 	- Have 1 Post per week from differing Teams as reports
 	- Have additional personal or project related posts from the community
+
+
+Community
+---------
+
+- Implement Code of Conduct
