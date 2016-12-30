@@ -23,7 +23,9 @@ Community
 ---------
 
 __Team Leader:__ Maximilian Scholz
-(max@coala.io)
+(max@coala.io)  
+Github profile page: https://github.com/sims1253  
+Gitlab profile page: https://gitlab.com/sims1253
 
 The community team organizes community bonding events like meetups and
 gaming evenings to support and promote a healthy, happy community.
