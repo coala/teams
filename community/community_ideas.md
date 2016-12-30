@@ -17,6 +17,19 @@ Max is responsible for:
 
 - Organizing all teams organization
 
+__[Hemang Kumar](https://github.com/hemangsk) (Member):__
+
+"Hello 😄  My name is Hemang, I'm 20 and studying Engineering, in my pre-final
+year. I love watching movies 🎦 my blood type is coffee  ☕️  (well, sure) I don't
+sleep much 😴  💧 and yea I try to be funny but I'm not as funny as
+[them](https://github.com/coala/teams/issues/3)."
+
+Hemang is responsible for:
+
+- dev of website
+- development of blog
+- medium posts summarising the happenings and progress at coala
+
 __[Lasse Schuirmann](https://github.com/sils) (Member):__
 
 "I'm Lasse. I'm the BLD of coala. I'm special. Also I'm western, white, male
@@ -103,8 +116,8 @@ Merch
 Web Presence
 ------------
 
-- New Homepage
-- Official coala Blog
+- New Homepage (Hemang Kumar)
+- Official coala Blog (Hemang Kumar)
 	- Have 1 Post per week from differing Teams as reports
 	- Have additional personal or project related posts from the community
 
