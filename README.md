@@ -66,6 +66,8 @@ Research
 
 __Team Leader:__ Udayan Tandon
 (udayan@coala.io)
+Github profile page: https://github.com/udayan12167
+Gitlab profile page: https://gitlab.com/udayan12167
 
 The Research team organizes and plans several aspects of coala. It is the
 team's responsibility to draft coherent and precise proposals for
