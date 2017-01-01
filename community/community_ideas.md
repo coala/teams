@@ -39,6 +39,17 @@ Lasse is responsible for:
 
 - Applying as own organization for GSoC
 
+__[Mariatta Wijaya](https://github.com/mariatta) (Member):__
+
+"I'm Mariatta. I'm on IMDb, and I'm a Pythonista!"
+
+Mariatta is responsible for:
+
+- implement coala Code of Conduct
+- mentor and onboard newcomers
+- promote coala
+- give lightning talks
+
 
 __More To Come...__
 
