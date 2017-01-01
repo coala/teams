@@ -17,6 +17,23 @@ Max is responsible for:
 
 - Organizing all teams organization
 
+__[Mariatta](https://github.com/Mariatta) (Member):__
+
+"My name is Mariatta, and I'm extra super duper special because:
+- At the time of applying, I'm the only woman in coala maintainers team.
+- I'm on IMDb http://www.imdb.com/name/nm7641957/
+
+My other community involvements include:
+- co-organize Vancouver PyLadies meetups
+- organized a screening of Code: Debugging the Gender Gap with VanPy User group
+- mentored for Girls Learning Code and Ladies Learning Code
+- speaking at conferences: Vancouver Python Day 2016, DjangoCon US 2016,
+PyCaribbean 2017
+- attend local Python meetups
+
+In essence, I've been part of the community already, you might as well just
+accept me 😜 "
+
 __[Hemang Kumar](https://github.com/hemangsk) (Member):__
 
 "Hello 😄  My name is Hemang, I'm 20 and studying Engineering, in my pre-final
@@ -125,4 +142,4 @@ Web Presence
 Community
 ---------
 
-- Implement Code of Conduct
+- Implement Code of Conduct (Mariatta)
