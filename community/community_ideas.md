@@ -152,3 +152,17 @@ Community
 ---------
 
 - Implement Code of Conduct
+
+
+Workflows
+---------
+
+- Improve review situation
+	- Improve quality of reviews
+	- Improve quantity of reviews
+- Create team organization template (so other teams can adopt)
+	- How to communicate internally
+	- How to organize
+	- How to work
+	- How to communicate externally
+- Create cross team communication, collaboration and organization workflow
