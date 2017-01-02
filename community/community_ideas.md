@@ -39,6 +39,21 @@ Lasse is responsible for:
 
 - Applying as own organization for GSoC
 
+__[Kaisar Arkhan](https://github.com/yukiisbored) (Member):__
+
+"I'm (currently) a 16 years old open source programmer, I've been a Linux user
+since 2006 and I've been starting to taken interest in programming at the same
+time. I've had a ton of experience with building a community (most of them are
+from my experience in building and managing a game server). I'm also a weeb, I
+read manga every night. I rarely watch anime though. I love the hell out of
+*nix operating systems because they're moe. I'm currently manage networking and
+server stuff at my school."
+
+Kaisar is responsible for:
+
+- Developer discussions
+- Admin stuff
+
 __[Mariatta Wijaya](https://github.com/mariatta) (Member):__
 
 "I'm Mariatta. I'm on IMDb, and I'm a Pythonista!"
