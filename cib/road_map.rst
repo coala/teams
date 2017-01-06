@@ -19,8 +19,8 @@ shell autocompletion.
 Roadmap
 -------
 
-Make distribution requirements     - **Incomplete**
-Add shell autocompletion           - **Incomplete**
-Label issues correctly in the repo - **Incomplete**
-Catch EOF and keyboard interrupts  - **Incomplete**
-Add --verbose mode for debugging   - **Incomplete**
+- Make distribution requirements     - **Incomplete**
+- Add shell autocompletion           - **Incomplete**
+- Label issues correctly in the repo - **Incomplete**
+- Catch EOF and keyboard interrupts  - **Incomplete**
+- Add --verbose mode for debugging   - **Incomplete**
