@@ -13,3 +13,8 @@ What contributions, coding or not, have you done to coala?
 # Road to the Future
 
 How do you plan to take forward coala as a team leader/member of your team? What changes will you make happen.
+
+# Specific Responsibilities
+
+What do you want to work on. Do you have worked out project ideas?
+What do you want take responsibility for?
