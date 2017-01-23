@@ -62,5 +62,12 @@ Mariatta is responsible for:
 - promote coala
 - give lightning talks
 
+__[Udayan Tandon](https://github.com/Udayan12167) (Member):__
 
-__More To Come...__
+I'm RTL(Research Team Lead). Have contributed to coala for two years coming up
+next month.
+
+Udayan is responsible for:
+
+- applying to RGSoC
+- administering RGSoC
