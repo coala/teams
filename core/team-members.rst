@@ -14,8 +14,6 @@ another tool called `cib`). Also, Arsenal is the greatest club in the world.
 
 I'm sils. I created coala. Thrice. I'll be pushing some initiatives to radically improve coala! This will mainly include cEP-0005 and metrics for coala.
 
----
-
 `Rohan VB <https://github.com/RohanVB>`_ (Member)
 
 Hi, I'm Rohan. I'm a 21 year old engineer in the making. I love my macbook, 
