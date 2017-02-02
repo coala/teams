@@ -22,3 +22,8 @@ it loves me back most of the time. Other things that interest me includes
 mainstream anime (bleach, fma:b, stuff like that.) and reading mostly 
 non-fiction books. I look forward to doing the biddings of the glorious 
 leader (do we really have to call you that?)
+
+`Udayan Tandon <https://github.com/Udayan12167>`_
+
+I'm the RTL (Research Team Lead). I have contributed to coala for two years
+coming up next month.
