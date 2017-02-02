@@ -12,7 +12,8 @@ another tool called `cib`). Also, Arsenal is the greatest club in the world.
 
 `Lasse Schuirmann <https://github.com/sils>`_
 
-I'm sils. I created coala. Thrice. I'll be pushing some initiatives to radically improve coala! This will mainly include cEP-0005 and metrics for coala.
+I'm sils. I created coala. Thrice. I'll be pushing some initiatives to radically
+improve coala! This will mainly include cEP-0005 and metrics for coala.
 
 `Rohan VB <https://github.com/RohanVB>`_ (Member)
 
