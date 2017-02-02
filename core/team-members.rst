@@ -27,3 +27,9 @@ leader (do we really have to call you that?)
 
 I'm the RTL (Research Team Lead). I have contributed to coala for two years
 coming up next month.
+
+`Rishav Kumar <https://github.com/aptrishu>`_
+
+I'm Rishav, undergraduate student from India. I love algorithms. I have
+contributed code to coala, coala-bears and coala_utils. I'm also working on
+Jenkins plugin of coala. I'm helping newcomers and reviewing PRs and old Issues.
