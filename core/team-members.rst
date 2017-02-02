@@ -40,3 +40,9 @@ I am Asnel Christian Ngoulla, a computer science undergraduate student from Came
 I love python, java, machine learning and computer graphics. I am not funny...
 but i like hanging around with people who are ( ;) like @adtac, @Adrianzatreanu
 ... :) ).
+
+`Hemang Kumar <https://github.com/hemangsk>`_
+
+I am Hemang, I'm a Computer Science and Engineering undergrad, I like
+programming in Python, JavaScript and I also love making Android & Web projects.
+I like to learn new stuff everyday and to share my knowledge whenever I can.
