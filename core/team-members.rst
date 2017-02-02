@@ -33,3 +33,10 @@ coming up next month.
 I'm Rishav, undergraduate student from India. I love algorithms. I have
 contributed code to coala, coala-bears and coala_utils. I'm also working on
 Jenkins plugin of coala. I'm helping newcomers and reviewing PRs and old Issues.
+
+`Asnel Christian <https://github.com/Asnelchristian>`_
+
+I am Asnel Christian Ngoulla, a computer science undergraduate student from Cameroon.
+I love python, java, machine learning and computer graphics. I am not funny...
+but i like hanging around with people who are ( ;) like @adtac, @Adrianzatreanu
+... :) ).
