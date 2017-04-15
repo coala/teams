@@ -1,13 +1,21 @@
 Teams
 =====
 
-Aspects
+aspects
 -------
 
 __Team Leader:__ Stefan Zimmermann
 
-The Aspects team is responsible for implementing the Aspects defined in
-cEP-0005.
+Github profile page: https://github.com/userzimmermann/
+Gitlab profile page: https://gitlab.com/userzimmermann/
+
+The mother of all futures of coala! [#aspectsYEAH](https://github.com/orgs/coala/projects/3)
+
+The aspects team is responsible for implementing aspects in coala as defined in
+[cEP-0005](https://github.com/coala/cEPs/blob/master/cEP-0005.md). The ongoing
+projects of the aspects team are:
+-  https://github.com/orgs/coala/projects/2
+-  https://github.com/orgs/coala/projects/3
 
 
 cib

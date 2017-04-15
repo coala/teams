@@ -12,12 +12,12 @@ you shouldn't rely on this at all. A better and more complete list would be the
 Major Future Features
 =====================
 
-Aspects
+aspects
 *******
 
-Aspects are a completely new way to code analysis. You can read more about this
+aspects are a completely new way to code analysis. You can read more about this
 in `cEP #5 <https://github.com/coala/cEPs/blob/master/cEP-0005.md>`_. The
-Aspects team (leader: `Stefan Zimmermann <https://github.com/userzimmermann>`_)
+aspects team (leader: `Stefan Zimmermann <https://github.com/userzimmermann>`_)
 is responsible for this project and handles all decisions.
 
 Various Performance Enhancements
