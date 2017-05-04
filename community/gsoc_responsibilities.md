@@ -31,7 +31,15 @@ Students
   cEPs. Writing small prototypes can be ok to help with scheduling but real coding
   must wait until after the initial scheduling is complete and accepted by the
   mentor.
-- Create milestones in the repositories you schedule to work with for your project.
+- Create milestones for your project:
+    - Request master access to https://gitlab.com/coala/GSoC-2017
+    - Create milestones with the following names:
+    - BONDING_[project name]
+    - PHASE_1_[project name]
+    - PHASE_2_[project name]
+    - PHASE_3_[project name]
+- Then you can create issues for your phases. Your schedule has to be approved
+  by your mentor by the end of the bonding phase.
 - Add the milestones to the
   [projects list](https://github.com/coala/projects/blob/master/data/projects.js).
 - Create issues with the tasks you have scheduled so far and add them to the
@@ -52,7 +60,9 @@ Students
 
 #### Coding Phase
 
-- Follow your schedule. Communicate any problems with your mentor asap.
+- Follow your schedule.
+  Communicate any problems with your mentor asap.
+  If you fail to do this, we'll have to fail you.
 - Update milestones and issues as you go along.
 - Keep writing your blog every week.
 - Hold some kind of 1 on 1 session with your mentor once a week, updating them
