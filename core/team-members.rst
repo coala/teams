@@ -15,10 +15,10 @@ improve coala! This will mainly include cEP-0005 and metrics for coala.
 
 `Rohan VB <https://github.com/RohanVB>`_ (Member)
 
-Hi, I'm Rohan. I'm a 21 year old engineer in the making. I love my macbook, 
-it loves me back most of the time. Other things that interest me includes 
-mainstream anime (bleach, fma:b, stuff like that.) and reading mostly 
-non-fiction books. I look forward to doing the biddings of the glorious 
+Hi, I'm Rohan. I'm a 21 year old engineer in the making. I love my macbook,
+it loves me back most of the time. Other things that interest me includes
+mainstream anime (bleach, fma:b, stuff like that.) and reading mostly
+non-fiction books. I look forward to doing the biddings of the glorious
 leader (do we really have to call you that?)
 
 `Udayan Tandon <https://github.com/Udayan12167>`_
@@ -44,3 +44,8 @@ but i like hanging around with people who are ( ;) like @adtac, @Adrianzatreanu
 I am Hemang, I'm a Computer Science and Engineering undergrad, I like
 programming in Python, JavaScript and I also love making Android & Web projects.
 I like to learn new stuff everyday and to share my knowledge whenever I can.
+
+`Maxim Alexandru https://github.com/Nosferatul`_
+
+I'm Alex, undergraduate student from Romania. I love projects. I have contributed code to coala
+for almost 1 year. I'm helping newcomers and reviewing PRs and old Issues.
