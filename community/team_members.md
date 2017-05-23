@@ -1,19 +1,6 @@
 Team
 ====
 
-__[Maximilian Scholz](https://github.com/sims1253) (Leader):__
-
-"Hi, I'm Max and sometimes called the Secretary of Offtopic (mainly by myself).
-I joined coala in early 2015 but real contributions started 2016. I mainly
-work on coala by giving input on design questions helping with administrative
-tasks. My biggest impact on coala so far probably was the community work during
-the second GSoC coala participated in and my conference visits. From that time
-the title Secretary of Offtopic stems."
-
-Max is responsible for:
-
-- Organizing all teams organization
-
 __[Hemang Kumar](https://github.com/hemangsk) (Member):__
 
 "Hello 😄  My name is Hemang, I'm 20 and studying Engineering, in my pre-final
@@ -71,3 +58,21 @@ Udayan is responsible for:
 
 - applying to RGSoC
 - administering RGSoC
+
+
+Former Members
+--------------
+
+__[Maximilian Scholz](https://github.com/sims1253) (Leader):__
+
+"Hi, I'm Max and sometimes called the Secretary of Offtopic (mainly by myself).
+I joined coala in early 2015 but real contributions started 2016. I mainly
+work on coala by giving input on design questions helping with administrative
+tasks. My biggest impact on coala so far probably was the community work during
+the second GSoC coala participated in and my conference visits. From that time
+the title Secretary of Offtopic stems."
+
+Max was responsible for:
+
+- Organizing the team
+- GSoC administering
