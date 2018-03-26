@@ -49,3 +49,7 @@ I like to learn new stuff everyday and to share my knowledge whenever I can.
 
 I'm Alex, undergraduate student from Romania. I love projects. I have contributed code to coala
 for almost 1 year. I'm helping newcomers and reviewing PRs and old Issues.
+
+`Palash Nigam <https://github.com/palash25>`_
+
+Hi, I'm Palash. I'm a pythonist and open source enthusiast. I am interested in contributing to the Nextgen core. Besides writing code I like to listen to rock and roll (btw Pink Floyd is the greatest band ever).
