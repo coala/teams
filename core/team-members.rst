@@ -1,12 +1,11 @@
 Team
 ----
 
-`Adhityaa Chandrasekar <https://github.com/adtac>`_ (Glorious Leader)
+`Mischa Krüger <https://github.com/Makman2>`_ (Glorious Leader)
 
-Hi, I'm Adhityaa. I did a GSoC under coala once and I've been here ever
-since. I'm quite familiar with coala's core library (well, duh, I'm the
-leader). I also wrote most of `coala-quickstart` (a tool that is better than
-another tool called `cib`). Also, Arsenal is the greatest club in the world.
+I'm Mischa, there since start of coala. I know nearly all details
+you can know in coala, so I think this fits. The most important reason
+to be a leader: I love Python.
 
 `Lasse Schuirmann <https://github.com/sils>`_
 
