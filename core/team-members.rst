@@ -51,7 +51,7 @@ I am Hemang, I'm a Computer Science and Engineering undergrad, I like
 programming in Python, JavaScript and I also love making Android & Web projects.
 I like to learn new stuff everyday and to share my knowledge whenever I can.
 
-`Maxim Alexandru https://github.com/Nosferatul`_
+`Maxim Alexandru <https://github.com/Nosferatul>`_
 
 I'm Alex, undergraduate student from Romania. I love projects. I have contributed code to coala
 for almost 1 year. I'm helping newcomers and reviewing PRs and old Issues.
