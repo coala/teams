@@ -40,8 +40,8 @@ Students
     - PHASE_3_[project name]
 - Then you can create issues for your phases. Your schedule has to be approved
   by your mentor by the end of the bonding phase.
-- Add the milestones to the
-  [projects list](https://github.com/coala/projects/blob/master/data/projects.js).
+- Add the milestones to your project in the
+  [projects list](https://github.com/coala/projects/blob/master/_projects/).
 - Create issues with the tasks you have scheduled so far and add them to the
   milestones.
 - Participate in community bonding events.
