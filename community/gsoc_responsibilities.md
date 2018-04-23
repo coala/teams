@@ -32,7 +32,7 @@ Students
   must wait until after the initial scheduling is complete and accepted by the
   mentor.
 - Create milestones for your project:
-    - Request master access to https://gitlab.com/coala/GSoC-2017
+    - Request `master` access to the project within https://gitlab.com/coala/GSoC/
     - Create milestones with the following names:
     - BONDING_[project name]
     - PHASE_1_[project name]
