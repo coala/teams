@@ -22,6 +22,8 @@ Students
 #### Bonding Phase
 
 - Get in touch with your mentor.
+- Write a project description on http://projects.coala.io/
+- Finish any incomplete pre-requisites.
 - The first two weeks of the bonding period are strictly for scheduling time.
   This means that besides setting up the schedule, students should only work
   on things like cEPs.
@@ -73,8 +75,8 @@ Students
 - Talk to an org admin if any problems with your mentor arise asap.
 
 
-Primary Mentors
----------------
+Mentors
+-------
 
 ### Application Phase
 
@@ -84,6 +86,16 @@ Primary Mentors
 - Give feedback to other proposals.
 
 ### Bonding and Coding
+
+Mentors are allocated to a project in the following roles:
+
+1. Primary Mentor
+2. Secondary Mentor(s)
+3. Backup Primary Mentor
+4. Additional Mentor(s)
+
+Primary Mentor
+==============
 
 - Make sure, the student fulfils all their responsibilities.
   This especially includes the weekly blogging and making sure they follow and
@@ -100,15 +112,14 @@ Primary Mentors
   Your student will fail if you miss this.
 - Write a blog for each evaluation.
 
+Secondary Mentor(s)
+===================
 
-Co Mentors
-----------
+- Provide expertise on design
+- Review PRs from the student when requested.
 
-### Application Phase
-
-- Same as primary mentors
-
-### Bonding and Coding
+Backup Primary Primary
+======================
 
 - Make sure the primary mentor fulfils their responsibilities.
   This mainly includes the code review, filling evaluations and making sure
@@ -118,7 +129,21 @@ Co Mentors
 - Generally work as a backup for the primary mentor.
   Communicate with them if any special help with anything is needed.
 - Talk to an org admin if any problems arise.
+- Take over the role of Primary Mentor for the remainder of the project
+  if requested by the Primary Mentor or Admins.
 
+Additional Mentor(s)
+====================
+
+- Review PRs from the student, especially checking for readability, and
+  code complexity.  Includes manually checking any rules which are not
+  automatically checked, and verifying sample code in docs is correct.
+- Review blog posts from the student, especially accuracy of status,
+  readability, and sufficient detail.
+- Assist with repository maintenance tasks that may negatively impact
+  the project, but are outside the scope of the project.  Examples include
+  - Fixing breakages caused by external dependencies
+  - Enabling new static analysis rules to reduce manual PR review workload
 
 Admins
 ------
