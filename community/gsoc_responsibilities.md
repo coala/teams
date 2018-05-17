@@ -118,8 +118,8 @@ Secondary Mentor(s)
 - Provide expertise on design
 - Review PRs from the student when requested.
 
-Backup Primary Primary
-======================
+Backup Primary Mentor
+=====================
 
 - Make sure the primary mentor fulfils their responsibilities.
   This mainly includes the code review, filling evaluations and making sure
