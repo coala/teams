@@ -4,6 +4,9 @@ Responsibilities of coala’s GSoC Participants
 This Document hold the responsibilities we expect coala’s GSoC participants to
 fulfil.
 
+The coala's GSoC participants and mentors are also required to follow our 
+coala community's [Code of Conduct](https://coala.io/coc).
+
 
 Students
 --------
