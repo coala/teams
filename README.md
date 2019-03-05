@@ -49,8 +49,10 @@ community members.
 Core
 ----
 
-__Team Leader:__ Adhityaa Chandrasekar
-(adtac@coala.io )
+__Team Leader:__ Mischa Krüger
+(mak@coala.io)
+Github profile page: https://github.com/Makman2
+Gitlab profile page: https://gitlab.com/Makman2
 
 Developing and maintaining the coala core repository.
 In addition everything that does not fit into another team's domain,
