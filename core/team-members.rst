@@ -59,3 +59,10 @@ for almost 1 year. I'm helping newcomers and reviewing PRs and old Issues.
 `Palash Nigam <https://github.com/palash25>`_
 
 Hi, I'm Palash. I'm a pythonist and open source enthusiast. I am interested in contributing to the Nextgen core. Besides writing code I like to listen to rock and roll (btw Pink Floyd is the greatest band ever).
+
+`Abhinav Kaushlya <https://github.com/abhishalya>`_
+
+I'm Abhinav, currently 14 years old and a GCI student of coala. I will be
+sticking around coala for all upcoming GCIs. I love contributing to open-source
+and solving competitive programming problems. I would love to see where this
+journey takes me in upcoming years.
