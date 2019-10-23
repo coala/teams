@@ -16,6 +16,7 @@ Students
 - Complete the coala newcomer guide.
 - Decide on one, max. two projects to apply for.
 - Get in touch with the mentors for those projects.
+- Complete the coala GSoC applicant form. (includes when you first communicated with any mentor)
 - Start to work on issue from the area of the projects.
 - Start to write the proposals drafts as early as possible to receive feedback.
 - Merge all pending PRs that are not related to the project.
@@ -25,6 +26,7 @@ Students
 #### Bonding Phase
 
 - Get in touch with your mentor.
+- Complete the coala GSoC student form. (includes when you first communicated any mentor about your project, ..)
 - Write a project description on http://projects.coala.io/
 - Finish any incomplete pre-requisites.
 - The first two weeks of the bonding period are strictly for scheduling time.
